@@ -1,6 +1,7 @@
 Kaggle
 ======
-Kaggle Competition (Predict Fire Peril Loss Cost).
+
+Kaggle Competition (Predict Fire Peril Loss Cost).<br>
 Host by: Liberty Mutual Group. <br>
 Link: https://www.kaggle.com/c/liberty-mutual-fire-peril <br>
 ###1. Observation
