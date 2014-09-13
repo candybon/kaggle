@@ -1,7 +1,7 @@
-##Kaggle Competition (Predict Fire Peril Loss Cost)
+##Kaggle Competition (Predict Fire Peril Loss Cost) 
+####Host by: Liberty Mutual Group
 ======
 Link: https://www.kaggle.com/c/liberty-mutual-fire-peril <br>
-Liberty Mutual Group
 ======
 ###1. Observation
 Training Data: ~ 450,000 rows; ~360 features. <br>
