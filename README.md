@@ -2,7 +2,6 @@
 ####Host by: Liberty Mutual Group
 ======
 Link: https://www.kaggle.com/c/liberty-mutual-fire-peril <br>
-======
 ###1. Observation
 Training Data: ~ 450,000 rows; ~360 features. <br>
 Non-zero target: ~ 1,200; <br>
